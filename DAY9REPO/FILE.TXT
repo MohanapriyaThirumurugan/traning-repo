@@ -1,0 +1,4 @@
+Day 9: Inheritance and Polymorphism in Python OOP
+
+•	Inheritance: You learned how a child class can inherit properties and methods from a parent class. This promotes code reusability and reduces redundancy.
+•	Polymorphism: You explored how different classes can define methods with the same name but provide different implementations. Polymorphism allows for flexibility when designing classes that share similar behavior.

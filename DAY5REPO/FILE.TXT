@@ -1,0 +1,3 @@
+Day 5:
+•	Test: Conducted a test to assess the understanding of concepts covered in the first four days, including loops, conditionals, functions, and file handling. The test involved solving problems in a time-constrained environment to simulate real-world problem-solving scenarios.
+•	File Handling in Python: Introduction to working with files in Python, including reading from and writing to files. Practiced with various file operations such as opening files, reading data, writing to files, and handling exceptions during file operations. The focus was on text and CSV files.

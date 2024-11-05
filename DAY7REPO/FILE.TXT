@@ -1,0 +1,3 @@
+Day 7: Pandas Practice
+•	Group by Method: You practiced using the groupby() function in pandas, which is essential for grouping data based on specific columns and then performing aggregate operations (e.g., sum, mean, count).
+•	Conditional Operations (if conditions): You explored how to apply conditions in pandas to filter or manipulate data. This involves using logical conditions to slice or modify data frames

@@ -1,0 +1,5 @@
+# Day 1:
+# CSV to Excel Conversion: Explored methods to convert CSV files into Excel format using libraries like pandas and openpyxl. The focus was on handling different data types and ensuring that the structure of the data remained intact after conversion.
+# Excel to CSV Conversion: Learned how to convert Excel files back into CSV format. This was essential for ensuring that large Excel files could be used for data processing in formats that are lightweight and compatible with various data processing tools.
+# Excel to Text Conversion: Practiced converting Excel data into plain text format. This exercise helped in understanding how to deal with unstructured data and how it can be saved or utilized in different text-based applications.
+

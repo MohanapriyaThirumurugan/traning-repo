@@ -1,0 +1,4 @@
+Day 15: Text Extraction from Images using Tesseract
+•	Practiced using Tesseract OCR to convert image content into text.
+•	Strengthened knowledge in optical character recognition and image processing with Python
+•	Successfully extracted text from images, learning to work with OCR tools.

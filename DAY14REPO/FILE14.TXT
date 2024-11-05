@@ -1,0 +1,4 @@
+DAY 14: CRUD-based Student Management Panel
+•	Created a student management panel implementing CRUD operations.
+•	Gained practical experience in building a simple, user-friendly interface for data management.
+•	Enhanced skills in data structuring and management within an application.

@@ -1,0 +1,8 @@
+Day 10: Encapsulation, Abstraction, and File Handling
+
+•	Encapsulation: You explored how to restrict access to certain parts of a class, allowing only authorized methods to modify the class’s data. This keeps your data secure and maintains the integrity of your objects.
+•	Abstraction: You learned how to hide the implementation details of certain functions, exposing only what’s necessary to the users of the class. This makes your code cleaner and easier to work with.
+•	File Handling with Pandas: You worked on reading a CSV file using pandas within a class, then accessed the data from another class (or object), and saved the modified data to a new Excel file. This taught you how to:
+•	Use OOP to manage file I/O operations.
+•	Work with pandas data frames as class attributes.
+•	Save manipulated data to Excel using pandas’ to_excel() method

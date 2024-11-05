@@ -1,0 +1,5 @@
+# Day 2:
+# 	For and While Loops: Focused on understanding iteration in Python. Learned how to use for loops for iterating over sequences like lists, tuples, and dictionaries, and while loops for repeated execution until a condition is met.
+# 	Conditional Statements (If, Else, Elif): Practiced decision-making using conditional statements. This covered basic branching and how to evaluate expressions in Python to determine the flow of execution based on different conditions.
+# 	Operators: Studied Python operators including arithmetic, comparison, logical, and assignment operators, which are crucial for performing calculations and comparisons.
+#   Basic Problem Solving: Solved simple problems to reinforce the use of loops and conditionals. Examples included calculating the sum of numbers in a list, checking if a number is prime, etc.

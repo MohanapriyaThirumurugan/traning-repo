@@ -1,0 +1,5 @@
+Day 13: API Development with Flask and MongoDB
+•	Developed RESTful APIs using Flask.
+•	Integrated Flask with MongoDB to store and retrieve data.
+•	Created endpoints and performed CRUD operations.
+•	Built a strong foundation in backend development and NoSQL database handling

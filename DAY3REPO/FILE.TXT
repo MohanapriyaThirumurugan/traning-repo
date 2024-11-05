@@ -1,0 +1,5 @@
+Day 3:
+•	Problem Solving Using Loops and Conditionals: Worked on more complex problems that required combining loops and conditional logic. This included:
+o	Convert string in reverse order in a range.
+o	Implementing sorting algorithms.
+o	Writing programs for pattern printing. These exercises solidified understanding of how iteration and conditionals work together in Python.

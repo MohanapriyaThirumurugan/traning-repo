@@ -1,0 +1,11 @@
+Day 6:
+•	Introduction to Pandas Library: Studied the pandas library, one of the most popular libraries for data manipulation in Python. Covered key concepts like DataFrames and Series, which are the fundamental data structures in Pandas.
+•	Using Pandas for Data Manipulation: Practiced using Pandas to read, modify, and write data. This included:
+Reading data from CSV and Excel files.
+Filtering, sorting, and aggregating data.
+Handling missing data.
+•	Problem Solving Using Pandas: Solved several problems that involved real-world data manipulation tasks such as:
+Cleaning datasets.
+Aggregating data by category.
+Performing group-by operations.
+Generating summaries and reports using Pandas.

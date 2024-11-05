@@ -1,0 +1,6 @@
+Day 4:
+•	Introduction to Functions in Python: Learned the importance of modular programming and how to create reusable pieces of code using functions. This included defining functions with and without parameters.
+•	Return Keyword: Studied how the return keyword is used to send back a result from a function to its caller. Practiced writing functions that compute values and return them to the main program for further use.
+•	Function Calls: Practiced calling functions both from the same file and from other files (using import). This exercise highlighted the importance of modularity and code reuse.
+•	File Importing: Learned how to import and use functions from one Python file into another using import statements, which is essential for organizing larger projects into multiple files.
+•	Problem Solving with Functions: Solved various problems using functions, such as writing a program to calculate factorials, finding the greatest common divisor (GCD), and more.
